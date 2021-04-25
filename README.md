@@ -2,7 +2,8 @@
 【Android】
 一款轻量级，非侵入式，可高度自由扩展订制任意功能的http请求全自动托管框架。
 
-如果你的项目是分模块的\n
+框架基于android X + Retrofit2 + okhttp3 + Rxjava2
+如果你的项目是分模块的
 可以直接把netframe拷贝到网络模块中，
 或者就用它作为一个module。
 如果你的项目是组件化的，
