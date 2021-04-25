@@ -1,0 +1,3 @@
+include ':netframe'
+include ':app'
+rootProject.name = "netframe"
